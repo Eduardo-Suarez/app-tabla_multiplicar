@@ -1,0 +1,11 @@
+este programa hace una tabla de multiplicar y la imprime en consola.
+gracias a yargs tenemos la opcion de poder agragarle el numero que nosotros querramos para hacer la multiplicacion. "Llamado base".
+
+Invocamos la bandera de base de la siguiente forma "--base = 1"
+
+Y tambien podemos elegir si queremos que la tabla se imprima en consola con la bandera l "-l".
+
+Para ejecutar el programa seria de la siguiente manera.
+node app.js --base = 1 -l
+
+Aclarando que la bandera de l es completamente opcional.
